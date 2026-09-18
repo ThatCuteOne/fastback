@@ -2,11 +2,21 @@
   "format": 2,
   "versions": [
     {
-      "timestap": "2026-09-17T21:44:05.653279895Z",
+      "timestamp": "2026-09-17T21:44:05.653279895Z",
       "game_versions": [
         "26.3"
       ],
       "version_name": "0.35.0+26.3.0.beta1",
+      "depends_on": [
+        "fabric-api"
+      ]
+    },
+    {
+      "timestamp": "2026-09-18T16:18:05.129893155Z",
+      "game_versions": [
+        "26.3"
+      ],
+      "version_name": "0.35.0+26.3.0.beta2",
       "depends_on": [
         "fabric-api"
       ]
